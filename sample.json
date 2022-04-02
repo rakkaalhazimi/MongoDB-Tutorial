@@ -1,0 +1,35 @@
+[{
+    "title": "post 1",
+    "id": 1,
+    "tag": "sport",
+    "likes": 3,
+    "body": "content"
+},
+{
+    "title": "post 2",
+    "id": 2,
+    "tag": "education",
+    "likes": 1,
+    "body": "content"
+},
+{
+    "title": "post 3",
+    "id": 3,
+    "tag": "economics",
+    "likes": 3,
+    "body": "content"
+},
+{
+    "title": "post 4",
+    "id": 4,
+    "tag": "sport",
+    "likes": 1,
+    "body": "content"
+},
+{
+    "title": "post 5",
+    "id": 5,
+    "tag": "politics",
+    "likes": 4,
+    "body": "content"
+}]
