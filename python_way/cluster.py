@@ -5,7 +5,7 @@ import pymongo
 def connect_cluster(username, password):
     client = pymongo.MongoClient(f"mongodb+srv://{username}:{password}@cluster0.0mxgk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority")
     return client
-
+    
 
 def count_element_type(collection, field, type_):
     return collection.count_documents({field: type_})
